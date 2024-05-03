@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krasnodar.sushitime.pixelcrm.github.io/static/css/main.6d60c126.css",
-    "main.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.a0e72b45.js",
+    "main.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.492f6166.js",
     "static/js/356.dd909c82.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/356.dd909c82.js",
     "static/media/MaterialCommunityIcons.ttf": "/krasnodar.sushitime.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/krasnodar.sushitime.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/krasnodar.sushitime.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/krasnodar.sushitime.pixelcrm.github.io/serve.json",
     "main.6d60c126.css.map": "/krasnodar.sushitime.pixelcrm.github.io/static/css/main.6d60c126.css.map",
-    "main.a0e72b45.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.a0e72b45.js.map",
+    "main.492f6166.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.492f6166.js.map",
     "356.dd909c82.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/356.dd909c82.js.map"
   },
   "entrypoints": [
     "static/js/356.dd909c82.js",
     "static/css/main.6d60c126.css",
-    "static/js/main.a0e72b45.js"
+    "static/js/main.492f6166.js"
   ]
 }
