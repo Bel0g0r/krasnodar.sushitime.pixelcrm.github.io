@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/krasnodar.sushitime.pixelcrm.github.io/static/css/main.6d60c126.css",
-    "main.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.9e097d3e.js",
-    "static/js/491.b5e4906c.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/491.b5e4906c.js",
+    "main.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.69fe44bd.js",
+    "static/js/786.72fb4467.js": "/krasnodar.sushitime.pixelcrm.github.io/static/js/786.72fb4467.js",
     "static/media/MaterialCommunityIcons.ttf": "/krasnodar.sushitime.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/krasnodar.sushitime.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/krasnodar.sushitime.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/krasnodar.sushitime.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/krasnodar.sushitime.pixelcrm.github.io/serve.json",
     "main.6d60c126.css.map": "/krasnodar.sushitime.pixelcrm.github.io/static/css/main.6d60c126.css.map",
-    "main.9e097d3e.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.9e097d3e.js.map",
-    "491.b5e4906c.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/491.b5e4906c.js.map"
+    "main.69fe44bd.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/main.69fe44bd.js.map",
+    "786.72fb4467.js.map": "/krasnodar.sushitime.pixelcrm.github.io/static/js/786.72fb4467.js.map"
   },
   "entrypoints": [
-    "static/js/491.b5e4906c.js",
+    "static/js/786.72fb4467.js",
     "static/css/main.6d60c126.css",
-    "static/js/main.9e097d3e.js"
+    "static/js/main.69fe44bd.js"
   ]
 }
